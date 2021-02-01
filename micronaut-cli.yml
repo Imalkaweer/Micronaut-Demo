@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ app-name, asciidoctor, hibernate-validator, http-client, java, java-application, junit, maven, mongo-sync, netty-server, properties, readme, shade, slf4j-simple, spring, spring-boot, spring-web, testcontainers ]
